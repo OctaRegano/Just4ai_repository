@@ -1,0 +1,21 @@
+51,50- senzor fata centru dreapta
+52,53 - senzor fata drapta
+49,48- senzor fata centru stanga 
+47,46 - senzor fata stanga
+37-36 - senzor centru fata
+
+45-44 - senzor spate dreapta
+43-42 - senzor spate centru dreapta
+41-40 - senzor spate centru stanga
+39-38 -senzor spate stanga
+
+1-
+2-
+3-
+4-
+5-
+6-
+7-
+8-
+9-
+10-
